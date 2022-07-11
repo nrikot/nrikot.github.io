@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.2cd7963f.chunk.js": "/portfolio/quotes-multipage-spa/static/js/0.2cd7963f.chunk.js",
+    "static/js/0.2cd7963f.chunk.js.map": "/portfolio/quotes-multipage-spa/static/js/0.2cd7963f.chunk.js.map",
+    "main.css": "/portfolio/quotes-multipage-spa/static/css/main.0223a419.chunk.css",
+    "main.js": "/portfolio/quotes-multipage-spa/static/js/main.87519a5b.chunk.js",
+    "main.js.map": "/portfolio/quotes-multipage-spa/static/js/main.87519a5b.chunk.js.map",
+    "runtime-main.js": "/portfolio/quotes-multipage-spa/static/js/runtime-main.07277493.js",
+    "runtime-main.js.map": "/portfolio/quotes-multipage-spa/static/js/runtime-main.07277493.js.map",
+    "static/js/3.b37bf558.chunk.js": "/portfolio/quotes-multipage-spa/static/js/3.b37bf558.chunk.js",
+    "static/js/3.b37bf558.chunk.js.map": "/portfolio/quotes-multipage-spa/static/js/3.b37bf558.chunk.js.map",
+    "static/css/4.c3689421.chunk.css": "/portfolio/quotes-multipage-spa/static/css/4.c3689421.chunk.css",
+    "static/js/4.4c2eedcb.chunk.js": "/portfolio/quotes-multipage-spa/static/js/4.4c2eedcb.chunk.js",
+    "static/js/4.4c2eedcb.chunk.js.map": "/portfolio/quotes-multipage-spa/static/js/4.4c2eedcb.chunk.js.map",
+    "static/css/5.a03252ab.chunk.css": "/portfolio/quotes-multipage-spa/static/css/5.a03252ab.chunk.css",
+    "static/js/5.3f497a9b.chunk.js": "/portfolio/quotes-multipage-spa/static/js/5.3f497a9b.chunk.js",
+    "static/js/5.3f497a9b.chunk.js.map": "/portfolio/quotes-multipage-spa/static/js/5.3f497a9b.chunk.js.map",
+    "static/css/6.cdcfad4c.chunk.css": "/portfolio/quotes-multipage-spa/static/css/6.cdcfad4c.chunk.css",
+    "static/js/6.f69a1f37.chunk.js": "/portfolio/quotes-multipage-spa/static/js/6.f69a1f37.chunk.js",
+    "static/js/6.f69a1f37.chunk.js.map": "/portfolio/quotes-multipage-spa/static/js/6.f69a1f37.chunk.js.map",
+    "static/js/7.2d198e71.chunk.js": "/portfolio/quotes-multipage-spa/static/js/7.2d198e71.chunk.js",
+    "static/js/7.2d198e71.chunk.js.map": "/portfolio/quotes-multipage-spa/static/js/7.2d198e71.chunk.js.map",
+    "index.html": "/portfolio/quotes-multipage-spa/index.html",
+    "static/css/4.c3689421.chunk.css.map": "/portfolio/quotes-multipage-spa/static/css/4.c3689421.chunk.css.map",
+    "static/css/5.a03252ab.chunk.css.map": "/portfolio/quotes-multipage-spa/static/css/5.a03252ab.chunk.css.map",
+    "static/css/6.cdcfad4c.chunk.css.map": "/portfolio/quotes-multipage-spa/static/css/6.cdcfad4c.chunk.css.map",
+    "static/css/main.0223a419.chunk.css.map": "/portfolio/quotes-multipage-spa/static/css/main.0223a419.chunk.css.map",
+    "static/js/3.b37bf558.chunk.js.LICENSE.txt": "/portfolio/quotes-multipage-spa/static/js/3.b37bf558.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07277493.js",
+    "static/js/3.b37bf558.chunk.js",
+    "static/css/main.0223a419.chunk.css",
+    "static/js/main.87519a5b.chunk.js"
+  ]
+}
