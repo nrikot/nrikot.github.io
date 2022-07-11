@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/reactjs-color-hues-generator/static/css/main.512f7a1f.chunk.css",
+    "main.js": "/portfolio/reactjs-color-hues-generator/static/js/main.8e1482a4.chunk.js",
+    "main.js.map": "/portfolio/reactjs-color-hues-generator/static/js/main.8e1482a4.chunk.js.map",
+    "runtime-main.js": "/portfolio/reactjs-color-hues-generator/static/js/runtime-main.29df57a1.js",
+    "runtime-main.js.map": "/portfolio/reactjs-color-hues-generator/static/js/runtime-main.29df57a1.js.map",
+    "static/js/2.658c549b.chunk.js": "/portfolio/reactjs-color-hues-generator/static/js/2.658c549b.chunk.js",
+    "static/js/2.658c549b.chunk.js.map": "/portfolio/reactjs-color-hues-generator/static/js/2.658c549b.chunk.js.map",
+    "index.html": "/portfolio/reactjs-color-hues-generator/index.html",
+    "static/css/main.512f7a1f.chunk.css.map": "/portfolio/reactjs-color-hues-generator/static/css/main.512f7a1f.chunk.css.map",
+    "static/js/2.658c549b.chunk.js.LICENSE.txt": "/portfolio/reactjs-color-hues-generator/static/js/2.658c549b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29df57a1.js",
+    "static/js/2.658c549b.chunk.js",
+    "static/css/main.512f7a1f.chunk.css",
+    "static/js/main.8e1482a4.chunk.js"
+  ]
+}

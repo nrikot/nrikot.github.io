@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-spa-great-quotes"]=this["webpackJsonpreact-spa-great-quotes"]||[]).push([[7],{53:function(e,t,r){"use strict";r.r(t);var s=r(1);t.default=function(){return Object(s.jsx)("div",{className:"centered",children:Object(s.jsx)("p",{children:"Error 404. Page not found."})})}}}]);
+//# sourceMappingURL=7.2d198e71.chunk.js.map
