@@ -211,6 +211,8 @@ const init = () => {
         true
       );
     }
+
+    new PureCounter(); // execute after dom loaded
   });
 
   /**
@@ -245,8 +247,6 @@ const init = () => {
       clickable: true,
     },
   });
-
-  new PureCounter(); // execute after dom loaded
 };
 
 document.addEventListener('DOMContentLoaded', (event) => {
