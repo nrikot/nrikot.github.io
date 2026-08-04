@@ -1114,3 +1114,72 @@ button.swal2-styled.swal2-confirm {
 .credits a:hover {
   color: #fff;
 }
+
+/* Light theme defaults */
+.themed-button {
+  color: #fafafa;
+}
+
+/* Dark theme toggle class */
+[data-theme='dark'] .themed-button,
+.social-links a i,
+.white {
+  color: #ffffff;
+}
+
+/**
+Additional Twitter icon
+*/
+
+.bi-twitter-x:before {
+  color: #ffffff;
+  content: '';
+  background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktdHdpdHRlci14IiB2aWV3Qm94PSIwIDAgMTYgMTYiPg0KICA8cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGNsYXNzPSJ3aGl0ZSIgZD0iTTEyLjYuNzVoMi40NTRsLTUuMzYgNi4xNDJMMTYgMTUuMjVoLTQuOTM3bC0zLjg2Ny01LjA3LTQuNDI1IDUuMDdILjMxNmw1LjczMy02LjU3TDAgLjc1aDUuMDYzbDMuNDk1IDQuNjMzTDEyLjYwMS43NVptLS44NiAxMy4wMjhoMS4zNkw0LjMyMyAyLjE0NUgyLjg2NXoiLz4NCjwvc3ZnPg==');
+  background-size: cover;
+  height: 16px;
+  aspect-ratio: 1 / 1;
+}
+.bi-twitter-x:before,
+.bi-twitter-x-l:before {
+  color: #ffffff;
+  content: '';
+  background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDE2IDE2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTIuNiwwLjhoMi41TDkuNyw2LjlsNi4zLDguNGgtNC45bC0zLjktNS4xbC00LjQsNS4xSDAuM0w2LDguN0wwLDAuOGg1LjFsMy41LDQuNkwxMi42LDAuOEwxMi42LDAuOHoNCgkgTTExLjcsMTMuOGgxLjRMNC4zLDIuMUgyLjlMMTEuNywxMy44eiIvPg0KPC9zdmc+');
+  background-size: cover;
+  height: 16px;
+  aspect-ratio: 1 / 1;
+}
+
+/*
+If you add the class "inverted", the logo will be completely inverted.
+*/
+.bi-twitter-x.inverted {
+  filter: invert(100%);
+}
+
+/* 
+Example: Large Buttons
+You only have to adjust the height to 20px when icon is inside of a large button 
+*/
+.btn-lg .bi-twitter-x:before {
+  height: 20px;
+}
+
+/*
+Example: Standalone logo sizes
+*/
+h1 .bi-twitter-x:before,
+.fs-1 .bi-twitter-x:before {
+  height: 40px;
+}
+h2 .bi-twitter-x:before,
+.fs-2 .bi-twitter-x:before {
+  height: 32px;
+}
+h3 .bi-twitter-x:before,
+.fs-3 .bi-twitter-x:before {
+  height: 28px;
+}
+h4 .bi-twitter-x:before,
+.fs-4 .bi-twitter-x:before {
+  height: 25px;
+}

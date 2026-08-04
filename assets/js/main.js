@@ -102,7 +102,7 @@ const init = () => {
         scrollto(this.hash);
       }
     },
-    true
+    true,
   );
 
   /**
@@ -208,11 +208,11 @@ const init = () => {
             filter: this.getAttribute('data-filter'),
           });
         },
-        true
+        true,
       );
     }
 
-    new PureCounter(); // execute after dom loaded
+    // new PureCounter(); // execute after dom loaded
   });
 
   /**
