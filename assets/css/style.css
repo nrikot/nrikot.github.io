@@ -34,7 +34,9 @@ body::before {
     background-attachment: fixed;
   }
   #header {
-    background-position: top left;
+    /* background-position: top left; */
+    background-position: 10% 50%;
+    background-size: 30%;
   }
   #header .container {
     padding-left: 30rem;
